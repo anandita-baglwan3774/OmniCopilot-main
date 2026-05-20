@@ -98,4 +98,4 @@ Omni Copilot is built on the **Soft Premium** aesthetic:
 ---
 
 ## 🛡️ License
-MIT License. Created with ❤️ by [Gungun Chawla](https://github.com/gungun-001).
+MIT License. Created with ❤️ by Anandita Baglwan[https://github.com/anandita-baglwan3774].
